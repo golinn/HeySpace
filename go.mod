@@ -1,4 +1,4 @@
-module github.com/louisun/heyspace
+module github.com/golinn/heyspace
 
 go 1.12
 
